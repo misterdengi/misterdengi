@@ -61,5 +61,5 @@
 ## 📫 Contact
 
 <p align="left">
-  <a href="https://t.me/misterdengi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/mister_dengi_sc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
